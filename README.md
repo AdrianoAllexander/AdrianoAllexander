@@ -1,16 +1,28 @@
-## Hi there 👋
+## Howdy 👻
 
-<!--
-**AdrianoAllexander/AdrianoAllexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Adriano**, a Computer Science student based in Brazil. I build things with **C#** and **Java**, usually with one eye on the code and the other on potential security flaws.
 
-Here are some ideas to get you started:
+### What I'm working on:
+* **Development:** Backend logic and systems architecture.
+* **Security:** Digital forensics, network traffic analysis, and API security.
+* **Learning:** Keeping up with OWASP and modern security protocols.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Projects:
+Work in Progress.
+
+---
+
+### Outside of code:
+* **Gaming:** Usually on **Counter-Strike**, **League**, or wandering the Mojave in **Fallout**.
+* **Audio:** Audiophile hobbyist — tinkering with DACs, IEMs, and signal chains.
+
+---
+
+### Tech & Tools:
+* **Languages:** C#, Java, Python.
+* **AppSec/Infra:** OWASP ZAP, Burp Suite, Docker, Git.
+* **Forensics:** Wireshark, Autopsy.
+* **Hardware:** Ryzen 3600 | RX 5700 XT | ASUS B450M.
+---
