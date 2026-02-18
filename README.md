@@ -1,4 +1,4 @@
-## Howdy 👻
+## Howdy 🐦‍⬛
 
 I'm **Adriano**, a Computer Science student based in Brazil. I build things with **C#** and **Java**, usually with one eye on the code and the other on potential security flaws.
 
