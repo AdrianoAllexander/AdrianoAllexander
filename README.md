@@ -5,7 +5,7 @@ I'm **Adriano**, a Computer Science student based in Brazil. I build things with
 ### What I'm working on:
 * **Development:** Backend logic and systems architecture.
 * **Security:** Digital forensics, network traffic analysis, and API security.
-* **Learning:** Keeping up with OWASP and modern security protocols.
+* **Learning:** OWASP and modern security protocols.
 
 ---
 
